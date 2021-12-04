@@ -11,4 +11,4 @@ Algoritme: For at definerer vores 3 punkter som vores input, skal vi finde ud af
 Det her var hvordan det skulle se ud, men istedet for det kunne jeg ikke få det til at lave punkter, så det endte med at jeg skulle gå en anden vej.
 
 Så blev det til at være sådan her
-![Flowchart](ny flowchart.PNG)
+![Flowchart](ny%20flowchart.PNG)
