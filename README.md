@@ -18,3 +18,11 @@ er en bevis på hvordan den rigtig kunne se ud i 2D, men fordi at det her var en
 
 Den her kode har lavet det hele i en simpel del hvor den giver farve pr. trekant, så laver den en hel ny skærm og den laver kun en grænsende trækant. 
 Det er bevis på hvordan det burde se ud, hvor den så laver trækant en efter en, men koden er ikke min så det ville være nemlig forskelligt hvis jeg lavede den i 3D tegning.
+
+Koden virker på den måde at, den starter med at lave en Def for tegningen af trekanten, hvor den giver den farver og punkter def drawTriangle(points,color,myTurtle):
+
+Der efter har vi en def getMid, hvor den bruger denne kode til at lave math med, hvor den regner ud hvor mange punkter hver trekant skal have
+
+Fra den går vi til def sierpinski(points,degree,myTurtle):, det vores definition til igen, farver og grader som trekanterne skal have, små indre trekanter røde, små trekanter blå, store trekanter grønne og midten hvid
+
+Så har vi vores def main():, som er vores main fil som kører hele programmet, den laver både skærmen og den laver også koordinaterne på sierpinski trekanten
