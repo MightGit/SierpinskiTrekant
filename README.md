@@ -12,3 +12,9 @@ Det her var hvordan det skulle se ud, men istedet for det kunne jeg ikke få det
 
 Så blev det til at være sådan her
 ![Flowchart](ny%20flowchart.PNG)
+
+Det var meningen jeg skulle lave en kode, men originalt så havde jeg ikke tid til det. Så bruger jeg den her kode istedet for, den her [Kode](https://runestone.academy/runestone/books/published/pythonds/Recursion/pythondsSierpinskiTriangle.html)
+er en bevis på hvordan den rigtig kunne se ud i 2D, men fordi at det her var en 3D projekt, går den en anden retning
+
+Den her kode har lavet det hele i en simpel del hvor den giver farve pr. trekant, så laver den en hel ny skærm og den laver kun en grænsende trækant. 
+Det er bevis på hvordan det burde se ud, hvor den så laver trækant en efter en, men koden er ikke min så det ville være nemlig forskelligt hvis jeg lavede den i 3D tegning.
